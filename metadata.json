@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow",
+  "description": "A Material Design 3 Expressive To-Do list application featuring fluid spring animations and a focus on micro-interactions.",
+  "requestFramePermissions": []
+}
